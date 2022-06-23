@@ -13,7 +13,7 @@ importers:
 
   packages/app2:
     specifiers:
-      app1: workspace:^2.0.0
+      app1: workspace:^2.0.1
     dependencies:
       app1: link:../app1
 
