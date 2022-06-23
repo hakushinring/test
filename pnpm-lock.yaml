@@ -8,9 +8,12 @@ importers:
     devDependencies:
       '@changesets/cli': 2.23.0
 
+  packages/app1:
+    specifiers: {}
+
   packages/app2:
     specifiers:
-      app1: workspace:^1.0.0
+      app1: workspace:^2.0.0
     dependencies:
       app1: link:../app1
 
