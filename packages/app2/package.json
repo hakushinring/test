@@ -1,6 +1,6 @@
 {
   "name": "app2",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "app1": "workspace:^2.0.0"
+    "app1": "workspace:^2.0.1"
   }
 }
