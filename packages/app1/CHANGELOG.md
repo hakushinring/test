@@ -1,5 +1,11 @@
 # app1
 
+## 2.0.1
+
+### Patch Changes
+
+- 3b6f459: test
+
 ## 2.0.0
 
 ### Major Changes
