@@ -1,5 +1,11 @@
 # app1
 
+## 2.0.2
+
+### Patch Changes
+
+- 3fccdee: create indexjs
+
 ## 2.0.1
 
 ### Patch Changes
