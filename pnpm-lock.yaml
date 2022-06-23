@@ -8,6 +8,12 @@ importers:
     devDependencies:
       '@changesets/cli': 2.23.0
 
+  packages/app2:
+    specifiers:
+      app1: workspace:^1.0.0
+    dependencies:
+      app1: link:../app1
+
 packages:
 
   /@babel/code-frame/7.16.7:
